@@ -7,7 +7,7 @@ const testData = {
   booleanTrue: true,
   booleanFalse: false,
   null: null,
-  undefined: undefined,
+  undefined,
   integerNegative: -1,
   integerZero: 0,
   integerPositive: 1,
